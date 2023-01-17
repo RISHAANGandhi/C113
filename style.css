@@ -1,0 +1,12 @@
+body{
+    background-image:linear-gradient(rgb(255, 178, 110),rgb(255, 212, 152),rgb(255, 224, 156),rgb(247, 255, 177));
+    font-family: 'Dancing Script', cursive;
+    font-size:25px;
+}
+#object_name{
+    font-family: 'Courgette', cursive;
+    font-size:20px;
+}
+.heading{
+    font-size:25px;
+}
